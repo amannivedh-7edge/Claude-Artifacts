@@ -1,7 +1,10 @@
 ---
 name: master-debugger
 description: Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes
+
 ---
+
+<!-- Created by Aman Nivedh -->
 
 # Systematic Debugging
 
